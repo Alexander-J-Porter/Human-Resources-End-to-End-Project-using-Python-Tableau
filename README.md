@@ -1,4 +1,4 @@
-### **NOTE:** The problem statement for this project is defined below. All of the parts are accessible from one Jupyter notebook in this repository which is **`Human_Resources_Project.ipynb`**..
+### **NOTE:** The problem statement for this project is defined below. All of the parts are accessible from one Jupyter notebook in this repository which is **`Human_Resources_Project.ipynb`**.
 
 Parts 1 and 2 utilize Python and involve data wrangling, exploratory analysis, and visualization. 
 Part 3 is the dashboard **(designed for non-mobile devices)** created with Tableau, accessible from the URL in the Jupyter notebook.

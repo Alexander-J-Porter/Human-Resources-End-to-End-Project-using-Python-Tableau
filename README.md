@@ -2,11 +2,11 @@
 
 Parts 1 and 2 utilize Python and involve data wrangling, exploratory analysis, and visualization. 
 Part 3 is the dashboard created with Tableau, accessible from the URL in the Jupyter notebook.
-Part 4 is the presentation, accessible from **`Human_Resources_Presentation.pdf`**.
+Part 4 is the presentation, accessible from: **`Human_Resources_Presentation.pdf`**
 
-This project uses a simulated real-world HR dataset, accessible from **`HumanResources.csv`**.
+This project uses a simulated real-world HR dataset, accessible from: **`HumanResources.csv`**
 
-All project resources are accessible from `Human_Resources_archive.zip`.
+All project resources are accessible from: `Human_Resources_archive.zip`
 
 # **Problem Statement: Employee HR Data Analysis for Effective Workforce Management**
 

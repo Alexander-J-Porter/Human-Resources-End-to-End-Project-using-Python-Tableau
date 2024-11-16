@@ -1,13 +1,11 @@
-### **NOTE:** The problem statement for this project is defined below. All of the parts are accessible from one Jupyter notebook in this repository which is **`Human_Resources_Project.ipynb`**.
+### **NOTE:** All of the parts are accessible from one Jupyter notebook in this repository which is **`Human_Resources_Project.ipynb`**.
 
 Parts 1 and 2 utilize Python and involve data wrangling, exploratory analysis, and visualization. 
-Part 3 is the dashboard **(designed for non-mobile devices)** created with Tableau, accessible from the URL in the Jupyter notebook.
+Part 3 is the dashboard created with Tableau, accessible from the URL in the Jupyter notebook.
 Part 4 is the presentation, accessible from **`Human_Resources_Presentation.pdf`**.
 
-**For Part 4: GitHub does not provide previews of PDF files therefore they must be downloaded and viewed on your local device.**
-
-This project uses a simulated real-world HR dataset (generated using Python with the Faker library), accessible from **`HumanResources.csv`**.
-All project resources including the dirty dataset, dashboard graphics, and simulated HR data generator are accessible from `Human_Resources_archive.zip`.
+This project uses a simulated real-world HR dataset, accessible from **`HumanResources.csv`**.
+All project resources are accessible from `Human_Resources_archive.zip`.
 
 # **Problem Statement: Employee HR Data Analysis for Effective Workforce Management**
 
